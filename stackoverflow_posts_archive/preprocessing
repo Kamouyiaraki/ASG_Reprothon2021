@@ -1,0 +1,28 @@
+### Installed https://gitforwindows.org/ to run bash on Windows. 
+### All data from https://ia800107.us.archive.org/view_archive.php?archive=/27/items/stackexchange/stackoverflow.com-Posts.7z 
+### Run on: 
+  #
+      #For a Windows system: Git at https://gitforwindows.org/ will allow you to run all bash commands.  
+  #R version 4.0.3 + 
+
+## Unzip archive
+7z e stackoverflow.com-Posts.zip
+
+## Split files by number of rows (99000)
+split.exe -l 99000 ./Posts.xml PostsSub
+   #PostsSub = prefix for new files - all are output labelled alphabetically. 
+   #-l = number of lines
+rm Posts.xml
+
+##Add xml header
+find . -type f -exec sed -i '1s/^/<?xml version="1.0" encoding="utf-8"?>\n<posts>\n /' {} \;
+   #find . -type f = finds all items in directory (.) that are files (-type f)
+   #executes command sed to each of them. 
+   #starts at 13:33 ended at 13:33 (~30s) for 7 files 
+
+
+##Add ending xml tag </posts> in R
+R
+library(xml)
+
+
