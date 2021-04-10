@@ -8,7 +8,7 @@ Hackathon on reproducibility and longevity of R code for the Aberdeen Study Grou
 ## Aims
 
 
-### License
+
 
 Please make sure to read the general [Hackathon Code of Conduct](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/Hackathon_CODE_OF_CONDUCT.md)
 
@@ -17,3 +17,8 @@ Please make sure to read the general [Hackathon Code of Conduct](https://github.
 
 
 Please make sure to read the [Contributors Code of Conduct](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/Contributors_CODE_OF_CONDUCT.md)
+
+
+
+### License
+>This work by the Aberdeen Study Group is licensed under [Mozilla Public License 2.0](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/LICENSE)
