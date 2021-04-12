@@ -2,6 +2,8 @@
 
 Hackathon on reproducibility and longevity of R code for the Aberdeen Study Group - 2021
 
+<insert image here>
+
 ### Contributors Guide
 
 #### What is the Task (Vision Statement
