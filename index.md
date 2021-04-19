@@ -6,7 +6,7 @@ Hackathon on reproducibility and longevity of R code for the Aberdeen Study Grou
 <insert image here>
 
 
-#### What is it all about?
+# What is it all about?
 
 Reproducibility is important across all research, whether this is open access articles, repeatable results or giving access to code and data used for a paper. However, if you have ever tried to rerun old code and it has failed, you are not alone! 
 <br>
