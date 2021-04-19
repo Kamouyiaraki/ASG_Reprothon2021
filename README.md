@@ -21,7 +21,7 @@ At the end of this we hope to share the results through a blog post with the aim
 
 
 
-#### Milestones 
+### Milestones 
 [Some kind of graphic of the amount of data/how we're splitting up the data]
 [Project Status Goals:]
 
@@ -37,12 +37,12 @@ The Reprothon is ASG’s very own hackathon! A hackathon is an event where lots 
 **When**: in person 9th June 2021, 1600-1800 BST, and will remain live until *TBC*
 
 If you want to get involved, we have a quick [registration form](LINK) to complete, which when completed will provide you with your unique Reprothon ID. 
-
 <br>
 <br>
 The session will be open for all contributors to pop in and out in their own time and will provide a space to chat with other contributors, but also watch real-time as the project moves forward. 
-This is all open access so you will be able to take part at your own pace, whenever you want while the data is live. All data is hosted on Github and the website. Any issues can then be brought up on our github by oepning an issue. A hard deadline will be announced before the data is taken down to be analysed. 
-[tutorial on how to open an issue - https://www.youtube.com/watch?v=N4Bl54_Xxis&t=4s&ab_channel=MozillaScienceLab] 
+
+*This is all open access so you will be able to take part at your own pace, whenever you want while the data is live. All data is hosted on Github and the website. Any issues can then be brought up on our github by oepning an issue. A hard deadline will be announced before the data is taken down to be analysed. 
+[tutorial on how to open an issue - https://www.youtube.com/watch?v=N4Bl54_Xxis&t=4s&ab_channel=MozillaScienceLab] *
 
 
 #### Requirements
