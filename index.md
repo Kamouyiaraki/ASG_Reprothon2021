@@ -9,11 +9,7 @@ Hackathon on reproducibility and longevity of R code for the Aberdeen Study Grou
 
 Reproducibility is important across all research, whether this is open access articles, repeatable results or giving access to code and data used for a paper. However, if you have ever tried to rerun old code and it has failed, you are not alone! 
 
-<br>
-
 So what can we do maximise the longevity, and therefore reproducibility, of our code? That is what the ASG Reprothon 2021 aims to answer! Collating data on code reproducibility for the first time, the Reprothon will provide robust evidence on what factors are determining the longevity of code. 
-
-<br>
 
 At the end of this we hope to share the results through a blog post with the aim to provide researchers with guidelines to ensure their code remains usable beyond publishing.
 
