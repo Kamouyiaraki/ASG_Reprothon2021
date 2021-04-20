@@ -41,14 +41,13 @@ If you want to get involved, we have a quick [registration form](LINK) to comple
 <br>
 The session will be open for all contributors to pop in and out in their own time and will provide a space to chat with other contributors, but also watch real-time as the project moves forward. 
 
-*This is all open access so you will be able to take part at your own pace, whenever you want while the data is live. All data is hosted on Github and the website. Any issues can then be brought up on our github by oepning an issue. A hard deadline will be announced before the data is taken down to be analysed. 
-[tutorial on how to open an issue - https://www.youtube.com/watch?v=N4Bl54_Xxis&t=4s&ab_channel=MozillaScienceLab] *
+*This is all open access so you will be able to take part at your own pace, whenever you want while the data is live. All data is hosted on Github and the website. Any issues can then be brought up on our github by [opening an issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue). A hard deadline will be announced before the data is taken down to be analysed. 
 
 
 #### Requirements
 
 - good WiFi or some way of connecting to the Internet
-- R version 4.0+ (if you need to update R you can do that following the guide [here](https://uvastatlab.github.io/phdplus/installR.html#:~:text=finish%20the%20installation.-,From%20within%20RStudio%2C%20go%20to%20Help%20%3E%20Check%20for%20Updates%20to,)%2C%20and%20click%20Install%20Updates))
+- R version 4.0+ (if you need to update R you can do that following the guide [here](https://uvastatlab.github.io/phdplus/installR.html)
 - ability to install packages in R
 - familiarity with StackOverlow posts
 
