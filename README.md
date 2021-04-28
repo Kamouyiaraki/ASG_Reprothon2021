@@ -93,7 +93,8 @@ If you want a look at what a previous hackathon was like, our founder [Francesca
 
 ### Codes of Conduct
 >Please make sure to read the general [Hackathon Code of Conduct](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/Hackathon_CODE_OF_CONDUCT.md)
->Please make sure to read the [Contributors Code of Conduct](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/Contributors_CODE_OF_CONDUCT.md)
+
+>Please make sure to also read the [Contributors Code of Conduct](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/Contributors_CODE_OF_CONDUCT.md)
 
 ### License
 >This work by the Aberdeen Study Group is licensed under [Mozilla Public License 2.0](https://github.com/Kamouyiaraki/ASG_Reprothon2021/blob/main/LICENSE)
