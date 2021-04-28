@@ -1,24 +1,27 @@
 <!DOCTYPE html>
-<html>
-<head>
-	{% include head.html %}
-    <body id="page-top" class="index">
+<html class="no-js">
+  <head>
+
+    {% include head.html %}
+
+  </head>
+  <body>
+
 
     {% include header.html %}
-</head>
 
-<body>
-  <header>
-	  <nav>
-		  <ul>
-         <li><a href="{{site.baseurl}}/index.md">Home</a></li>
-         <li><a href="{{site.baseurl}}/about">Aberdeen Study Group</a></li>
-         <li><a href="{{site.baseurl}}/contact">Contact</a></li>
-		  </ul>
-	  </nav>
-  </header>
-  
-  {% include footer.html %}
-</body>
 
+    {{ content }}
+
+
+
+
+
+
+
+
+
+    {% include footer.html %}
+
+    </body>
 </html>
