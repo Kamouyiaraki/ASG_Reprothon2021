@@ -10,11 +10,24 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - contact.md
-  - index.md
-  - Testing1.md
-  - Testing12.md
+name: "Aberdeen Study Group Reprothon 2021"
+output_dir: "."
+navbar:
+  title: "Aberdeen Study Group Reprothon 2021"
+  icon: fa-home
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.md
+  right:
+    - text: "Aberdeen Study Group"
+      href: contact.md
+  right:
+    - text: "Contributor"
+      href: Testing1.md
+  right:
+    - text: "Results"
+      href: sheet.html
 footer-links: 
   github: Kamouyiaraki
   twitter: Kamouyiaraki
