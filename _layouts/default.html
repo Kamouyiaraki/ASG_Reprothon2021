@@ -10,13 +10,13 @@
     <body>
 <div id="header_wrap" class="outer">
     <header class="inner">
-      <a id="forkme_banner" href="{{ site.github.url }}">View on GitHub</a>
-      <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+      <a id="forkme_banner" href="{{ site.baseurl }}">View on GitHub</a>
+      <h1 id="project_title">{{ site.title | default: site.baseurl }}</h1>
         {% if site.logo %}
-          <img src="{{site.github.url | replace:'http:','https:' }}/svg-files/asg_logo.png" alt="Logo" />
+          <img src="{{ site.baseurl | replace:'http:','https:' }}/svg-files/asg_logo.png" alt="Logo" />
         {% endif %}
 	
-      <p style="text-align: center; background-color: white;">
+      <p style="text-align: center; background-color: blue;">
                 <a href="{{ site.baseurl }}/">Home</a> |
                 <a href="{{ site.baseurl }}/about.md">Aberdeen Study Group</a> |
                 <a href="{{ site.baseurl }}/Testing1.md">Contributor</a> |
@@ -32,15 +32,14 @@
       <div class="row">
         <div class="col-lg-12">
           <a href="https://www.mozillascience.org">
-            <img src="{{ site.github.url | replace:'http:','https:' }}/svg-files/ScienceLabSticker.ai.png" class="img-responsive img-centered" alt="">
+            <img src="{{ site.baseurl | replace:'http:','https:' }}/svg-files/ScienceLabSticker.ai.png" class="img-responsive img-centered" alt="">
           </a>
 		  <a href="https://twitter.com/abdnStudyGroup">
-            <img src="{{ site.github.url | replace:'http:','https:' }}/svg-files/twitter-logo-2429.svg" class="img-responsive img-centered" alt="">
+            <img src="{{ site.baseurl | replace:'http:','https:' }}/svg-files/twitter-logo-2429.svg" class="img-responsive img-centered" alt="">
           </a>
 		  <a href="https://github.com/AberdeenStudyGroup/Reprothon2021">
-            <img src="{{ site.github.url | replace:'http:','https:' }}/svg-files/GitHub-Mark-64px.png" class="img-responsive img-centered" alt="">
+            <img src="{{ site.baseurl | replace:'http:','https:' }}/svg-files/GitHub-Mark-64px.png" class="img-responsive img-centered" alt="">
           </a>
-          <a href="{{ site.github.repository_url }}/blob/gh-pages/codeOfConduct.md">{{site.data[site.language].codeOfConduct}}</a>
         </div>
       </div>
     </div>
