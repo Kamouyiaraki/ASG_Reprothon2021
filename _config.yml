@@ -1,13 +1,47 @@
 
-name: "Aberdeen Study Group Reprothon 2021"
+name: "Reprothon 2021"
 output_dir: "."
 navbar:
-  title: "Aberdeen Study Group Reprothon 2021"
+  title: "Reprothon 2021"
   icon: fa-home
   left:
     - text: "Home"
       icon: fa-home
-      href: README.md
-   
-
-theme: jekyll-theme-cayman
+      href: index.md
+    - text: "Contributors"
+      icon: fa-cog
+      href: Testing12.html
+    - text: "About"
+      icon: fa-book
+      menu:
+        - text: "About us"
+          icon: fa-firefox
+          href: about.md
+        - text: "----"
+        - text: "contact"
+          icon: fa-file-pdf
+          href: contact.md
+    - text: "Results"
+      icon: fa-book
+      menu:
+        - text: "Google Sheet"
+          icon: fa-book
+          href: sheet.html
+        - text: "----"
+        - text: "Blog"
+          icon: fa-book
+          href: about.md
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+    fig_align: center
+    includes:
+    # css: 'styles.css'
+    # css:
+    #  - https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+    #  - styles.css
