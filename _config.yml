@@ -1,5 +1,4 @@
 title: Reprothon 2021 - My Awesome Title
 theme: jekyll-theme-minimal
-logo: svg-files/asg_logo.png
 plugins:
   - jekyll-relative-links
