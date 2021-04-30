@@ -1,3 +1,4 @@
+name: "Reprothon 2021"
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
