@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "Test Title"
-visible: true
 ---
 
 This is a test
