@@ -1,12 +1,4 @@
-name: "Aberdeen Study Group Reprothon 2021"
-output_dir: "."
-navbar:
-  title: "Aberdeen Study Group Reprothon 2021"
-  icon: fa-home
-  left:
-    - text: "Home"
-      icon: fa-home
-      href: README.md
-   
-
-theme: flatly
+title: Reprothon 2021 - My Awesome Title
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
