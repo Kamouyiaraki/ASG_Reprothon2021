@@ -1,4 +1,5 @@
 title: Reprothon 2021 - My Awesome Title test
 theme: jekyll-theme-minimal
+markdown:kramdown
 plugins:
   - jekyll-relative-links
