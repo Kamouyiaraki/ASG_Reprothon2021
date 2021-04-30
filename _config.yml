@@ -10,4 +10,4 @@ navbar:
       href: README.md
    
 
-theme: flatly
+theme: jekyll-theme-cayman
